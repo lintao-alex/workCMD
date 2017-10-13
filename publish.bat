@@ -1,0 +1,1 @@
+powershell E:\tools\发版本工具_win\publish.ps1
